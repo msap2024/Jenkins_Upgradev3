@@ -1,5 +1,8 @@
 pipeline {
     agent any
+    options {
+        copyArtifactPermission('Copy artifacts project,...');
+    }
     stages {
         stage('Build Application') {
             steps {
