@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World! Welcome to Jenkins Training v2 Code Pipeline!!!...</h2>
-<p> Thanks For viewing Deployment Sample App Deploy to PROD </p>
+<p> Thanks For viewing Deployment Sample App Deploy - AWESOME</p>
 </body>
 </html>
